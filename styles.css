@@ -1,0 +1,23 @@
+* {
+    color: black;
+}
+
+#Odin {
+    background-color: yellow;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    font-weight: 300;
+}
+
+.but {
+    background-color: white;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
